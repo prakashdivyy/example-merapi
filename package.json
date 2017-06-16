@@ -1,0 +1,26 @@
+{
+  "name": "example-merapi",
+  "version": "1.0.0",
+  "description": "example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashdivyy/example-merapi.git"
+  },
+  "keywords": [
+    "merapi"
+  ],
+  "author": "prakashdivyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashdivyy/example-merapi/issues"
+  },
+  "homepage": "https://github.com/prakashdivyy/example-merapi#readme",
+  "dependencies": {
+    "merapi": "^0.17.1",
+    "merapi-plugin-express": "^0.3.6"
+  }
+}
